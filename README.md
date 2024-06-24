@@ -1,5 +1,6 @@
 # Arrays-
 Arrays:
+<br>
      Arrays are the data structure that can store a fixed size sequential collection of elements of the same data type rather than dealing with individual variables.
 An indexed data structure to hold homogeneous data with fixed in size.
 ==> Indexed
